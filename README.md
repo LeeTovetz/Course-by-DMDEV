@@ -1,4 +1,4 @@
-# Course-by-DMDEV
+# Course-by-DMdev
 
 <a href="https://www.youtube.com/c/dmdev/featured">This course</a> will be very useful both for those who want to start learning programming from scratch, and for more advanced programmers, for whom I would like to show a modern approach to designing and writing applications in Java. <br>
         All the courses are divided into playlists with a corresponding title. The most convenient way is to open the one you like and go through the videos in order, starting from the first one, so that you don't miss anything. <br>
