@@ -20,9 +20,3 @@ List of courses that are/will be offered on this <a href="https://www.youtube.co
 </ul>
 
 
-
-
-
-
-
-
